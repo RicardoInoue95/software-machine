@@ -1,0 +1,10 @@
+# Projetos gerados vivem em repositórios próprios
+projetos-ativos/
+
+# Configuração local do assistente
+.claude/settings.local.json
+
+# Arquivos temporários
+*.zip
+Thumbs.db
+.DS_Store
