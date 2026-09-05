@@ -1,5 +1,6 @@
-# Projetos gerados vivem em repositórios próprios
-projetos-ativos/
+# Projetos gerados vivem em repositórios próprios; só o README da pasta é versionado
+projetos-ativos/*
+!projetos-ativos/README.md
 
 # Configuração local do assistente
 .claude/settings.local.json
